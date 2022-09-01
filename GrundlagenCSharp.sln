@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1SyntaxCSharp", "1SyntaxCSharp\1SyntaxCSharp.csproj", "{B9B7934F-3F90-462B-A094-ED87E71F6836}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geist", "Geist\Geist.csproj", "{DD331AD9-C46B-49C3-B204-66E04B23CA6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B9B7934F-3F90-462B-A094-ED87E71F6836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9B7934F-3F90-462B-A094-ED87E71F6836}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9B7934F-3F90-462B-A094-ED87E71F6836}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9B7934F-3F90-462B-A094-ED87E71F6836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD331AD9-C46B-49C3-B204-66E04B23CA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD331AD9-C46B-49C3-B204-66E04B23CA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD331AD9-C46B-49C3-B204-66E04B23CA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD331AD9-C46B-49C3-B204-66E04B23CA6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
