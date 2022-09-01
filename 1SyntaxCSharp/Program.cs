@@ -4,4 +4,4 @@ Console.WriteLine("teyze");
 Console.WriteLine("kalkmama yardim et");
 Console.WriteLine("ne");
 Console.WriteLine("teyzesi");
-Console.WriteLine("yagram");
+Console.WriteLine("dayim");
